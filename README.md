@@ -1,10 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Muhammad Faiz e Raza</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raza2468&label=Profile%20views&color=0e75b6&style=flat" alt="raza2468" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 💬 Ask me about **React, MERN**
+
+- 📫 How to reach me **faizeraza2468@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raza2468&show_icons=true&locale=en" alt="raza2468" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raza2468&" alt="raza2468" /></p>
-
