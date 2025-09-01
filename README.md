@@ -1,23 +1,83 @@
-<h1 align="center">Hi 👋, I'm Muhammad Faiz e Raza</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+# Muhammad Faiz e Raza  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+**Full-Stack Developer | AI Agent & Automation Engineer**  
 
-- 💬 Ask me about **React, MERN**
-- 🌱 I’m currently learning everything 😃
-- ⚡ Fun fact: I love to code and solve problems
-- 📫 How to reach me **faizeraza2468@gmail.com**
+📍 Based in Pakistan | 🌐 Open to Remote & On-site Opportunities  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammadfaiz2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfaiz2468" height="30" width="40" /></a>
+---
+
+## 👨‍💻 About Me  
+
+I’m a results-driven developer with a strong background in **MERN Stack, Python (Flask), and AI-powered automation systems**.  
+I specialize in building **scalable SaaS platforms, real-time applications, and AI-driven communication systems**.  
+
+- 💡 Expertise: **MERN, Python, Flask, Twilio, Vapi, AI Agents**  
+- 🚀 Built **GDPR-ready SaaS Booking & CRM system** with voice/SMS automation  
+- 🔄 Designed & deployed **CI/CD pipelines (GitHub Actions + Docker)** for SaaS apps  
+- 📊 Strong interest in **automation workflows, data-driven apps, and cloud integration**  
+- 📫 Reach me at: **faizeraza2468@gmail.com**  
+
+---
+
+## 🌟 Key Projects  
+
+### SB360 Smart Booking (AI-powered CRM)  
+GDPR-compliant SaaS platform with **AI voice agents, Twilio SMS/Calls, booking system, and analytics dashboards**.  
+🔗 [GitHub Repo](https://github.com/raza2468/sb360-smart-booking) | [Live Demo](https://sb360-demo-link.com)  
+
+---
+
+### AI Cold Calling System  
+AI agent for **human-like outbound calls** using **Twilio + OpenAI + Flask**, with **real-time transcription & analytics**.  
+🔗 [GitHub Repo](https://github.com/raza2468/ai-cold-calling) | [Live Demo](https://cold-calling-demo.com)  
+
+---
+
+### Twilio Automation Suite  
+End-to-end automation for **SMS campaigns, AI replies, and call handling**.  
+🔗 [GitHub Repo](https://github.com/raza2468/twilio-automation) | [Live Demo](https://twilio-automation-demo.com)  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** React, Redux, Next.js, Tailwind  
+- **Backend:** Node.js, Express.js, Python (Flask)  
+- **Databases:** MongoDB, PostgreSQL, SQLite  
+- **AI & Tools:** OpenAI, Vapi, Twilio Voice/SMS, LangChain  
+- **DevOps & Workflow:** GitHub Actions, Docker, Postman, CI/CD Pipelines  
+- **Others:** WebSockets, REST APIs, TypeScript  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raza2468&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=raza2468&theme=tokyonight" height="160"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+![Faiz’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raza2468&theme=react-dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raza2468&show_icons=true&locale=en&layout=compact" alt="raza2468" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raza2468&show_icons=true&locale=en" alt="raza2468" /></p>
+## 🌐 Connect With Me  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raza2468&" alt="raza2468" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/muhammadfaiz2468" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/raza2468" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:faizeraza2468@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/faizeraza" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://faizeraza.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
